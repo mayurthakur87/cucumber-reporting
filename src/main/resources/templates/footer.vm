@@ -2,10 +2,7 @@
   <div class="container-fluid">
     <p class="navbar-text navbar-right">
         <small>generate Cucumber HTML reports via:&nbsp;</small>
-        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Mayur Changed this </a> |
-        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
-        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
-        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        <a class="navbar-link" href="https://github.com/ess-acppo">Check us out on GITHUB </a> |
         &nbsp;&nbsp;
     </p>
   </div>
